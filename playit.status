@@ -1,300 +1,3570 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719950066849 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719950499563 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950069966 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950502634 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950073080 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950505692 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950076237 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950508757 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950079458 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950511800 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950082509 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950514849 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950085564 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950517915 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950088599 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950520974 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950091645 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950524025 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950094758 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950527085 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950097841 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950530149 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950100886 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950533201 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950103941 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950536301 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950107001 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950539406 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950110097 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950542540 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950113197 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950545660 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950116345 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950548754 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950119462 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950551816 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950122596 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950554875 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950125657 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950557956 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950128757 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950561020 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950131821 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950564097 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950134864 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950567185 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950137924 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950570237 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950141026 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950573289 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950144104 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950576328 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950147158 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950579386 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950150196 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950582470 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950153233 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950585549 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950156269 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950588650 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950159306 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950591766 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950162360 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950594839 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950165457 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950597889 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950168559 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950600932 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950171620 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950603975 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950174701 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950607091 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950177789 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950610135 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950180829 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950613188 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950183929 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950616250 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950186986 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950619351 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950190094 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950622418 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950193182 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950625456 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950196227 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950628535 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950199406 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950631667 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950202470 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950634745 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950205529 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950637847 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950208597 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950640973 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950211679 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950644019 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950214742 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950647063 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719950217788 tunnel running, 1 tunnels registered
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950650147 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950653235 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950656282 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950659468 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950662525 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950665565 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950668618 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950671708 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950674775 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950677840 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950680897 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950683985 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950687094 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950690153 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950693193 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950696276 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950699342 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950702425 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950705483 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950708573 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950711647 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950714713 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950717794 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950720856 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950723919 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950727021 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950730088 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950733169 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950736221 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950739300 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950742407 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950745495 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950748544 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950751623 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950754705 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950757787 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950760843 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950763899 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950766965 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950770004 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950773126 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950776229 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950779297 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950782355 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950785398 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950788438 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950791474 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950794533 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950797610 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950800666 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950803749 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950806800 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950809864 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950812928 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950816011 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950819199 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950822293 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950825365 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950828423 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950831484 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950834542 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950837592 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950840639 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950843772 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950846908 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950849991 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950853059 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950856146 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950859211 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950862293 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950865382 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950868499 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950871590 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950874644 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950877730 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950880805 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950883856 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950886937 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950890054 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950893144 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950896227 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950899275 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950902346 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950905404 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950908455 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950911588 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950914683 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950917739 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950920818 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950923889 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950926930 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950929983 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950933048 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950936146 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950939186 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950942281 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950945336 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950948424 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950951494 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950954621 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950957709 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950960798 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950963851 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950966919 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950969965 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950973019 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950976078 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950979150 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950982246 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950985318 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950988375 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950991503 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950994572 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719950997616 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951000698 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951003850 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951006952 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951010148 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951013242 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951016331 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951019386 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951022453 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951025545 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951028674 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951031713 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951034802 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951037867 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951041032 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951044088 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951047161 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951050249 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951053315 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951056365 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951059411 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951062499 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951065555 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951068627 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951071717 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951074779 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951077835 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951080884 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951083945 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951086999 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951090054 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951093104 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951096144 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951099287 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951102367 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951105437 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951108497 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951111560 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951114602 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951117656 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951120720 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951123806 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951126924 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951129990 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951133052 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951136105 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951139158 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951142256 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951145344 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951148407 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951151468 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951154547 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951157601 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951160679 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951163872 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951166987 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951170048 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951173109 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951176167 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951179240 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951182394 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951185485 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951188557 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951191631 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951194758 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951197874 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951200918 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951203987 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951207034 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951210072 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951213187 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951216282 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951219341 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951222413 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951225485 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951228558 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951231604 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951234654 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951237716 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951240816 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951243907 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951246968 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951250102 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951253144 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951256186 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951259240 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951262362 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951265503 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951268542 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951271623 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951274685 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951277740 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951280802 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951283850 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951286893 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951289936 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951292992 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951296027 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951299086 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951302166 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951305219 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951308275 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951311588 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951314655 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951317730 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951320790 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951323865 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951326914 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951329960 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951333010 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951336083 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951339141 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951342184 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951345224 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951348329 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951351391 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951354437 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951357510 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951360603 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951363674 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951366741 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951369795 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951372843 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951375909 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951379041 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951382190 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951385247 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951388288 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951391375 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951394414 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951397470 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951400526 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951403616 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951406676 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951409772 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951412818 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951415876 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951418927 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951421993 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951425051 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951428120 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951431183 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951434240 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951437282 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951440473 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951443554 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951446605 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951449659 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951452738 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951455867 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951458931 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951461993 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951465046 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951468102 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951471240 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951474305 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951477368 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951480431 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951483475 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951486525 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951489582 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951492646 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951495727 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951498993 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951502051 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951505107 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951508215 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951511266 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951514335 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951517396 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951520493 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951523588 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951526653 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951529719 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951532765 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951535828 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951538871 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951542015 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951545073 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951548127 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951551224 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951554275 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951557341 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951560399 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951563460 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951566514 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951569625 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951572681 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951575735 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951578829 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951581926 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951584995 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951588067 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951591133 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951594223 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951597296 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951600354 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951603419 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951606459 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951609514 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951612588 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951615640 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951618707 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951621757 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951624831 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951627903 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951630976 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951634023 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951637090 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951640144 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951643186 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951646237 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951649312 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951652377 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951655450 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951658587 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951661667 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951664737 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951667802 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951670879 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951673926 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951677048 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951680090 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951683188 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951686257 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951689340 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951692405 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951695441 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951698482 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951701568 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951704709 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951707881 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951710939 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951713999 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951717139 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951720211 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951723296 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951726361 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951729438 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951732505 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951735579 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951738631 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951741692 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951744778 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951747839 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951750943 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951754003 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951757055 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951760120 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951763208 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951766307 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951769360 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951772439 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951775509 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951778571 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951781663 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951784723 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951787775 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951790852 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951793916 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951796985 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951800043 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951803097 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951806174 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951809231 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951812279 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951815370 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951818428 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951821538 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951824596 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951827656 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951830742 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951833825 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951836879 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951839957 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951843041 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951846123 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951849200 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951852241 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951855327 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951858379 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951861418 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951864480 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951867599 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951870681 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951873745 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951876803 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951879862 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951882918 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951885970 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951889026 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951892148 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951895225 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951898282 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951901384 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951904467 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951907536 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951910575 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951913630 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951916715 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951919795 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951922861 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951925922 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951929005 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951932091 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951935172 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951938247 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951941298 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951944348 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951947384 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951950428 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951953476 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951956519 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951959589 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951962769 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951965833 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951968872 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951972019 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951975073 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951978207 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951981270 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951984313 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951987405 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951990480 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951993548 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951996672 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719951999740 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719952002813 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719952005893 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719952008945 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719952011978 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719952015018 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719952018059 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719952021126 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719952024178 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719952027245 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719952030382 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719952033471 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719952036558 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719952039663 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719952042718 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719952045828 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719952048902 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719952051981 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719952055036 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719952058114 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719952061187 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719952064252 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+global-utah.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+environment-wheels.gl.at.ply.gg:3826 => 127.0.0.1:3826 (proto: Udp, port count: 1)
